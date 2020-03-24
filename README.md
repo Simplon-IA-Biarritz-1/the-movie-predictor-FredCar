@@ -18,3 +18,8 @@ contient les Classes :
 
 - import.py    
 lance l'import
+
+
+## Résultat
+![Sortie](../Sortie_d'import.png "sortie")
+
