@@ -21,5 +21,5 @@ lance l'import
 
 
 ## Résultat
-![Sortie](../Sortie_d'import.png "sortie")
+![Sortie](Sortie_d'import.png "sortie")
 
